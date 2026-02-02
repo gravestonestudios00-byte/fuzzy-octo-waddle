@@ -1,0 +1,1 @@
+Warning: Alpha/Beta Map Generator This procedural generation tool for DEPT: DESCENT is currently in an unstable Beta state. Users should expect performance fluctuations, architectural errors, and potential crashes. We are actively refining the algorithms to improve stability and environmental coherence.
